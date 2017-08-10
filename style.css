@@ -1,0 +1,18 @@
+* {
+  background-color: blue;
+  color: white;
+  text-align: center;
+  /*border: solid white 1px;*/
+ }
+
+.trigger {
+  font-size: 15px;
+  border: solid 3px;
+  padding: 10px;
+  display: block;
+  margin: auto;
+} 
+
+.tweet {
+  margin: auto;
+  }
